@@ -1,0 +1,9 @@
+Package: net.ajbbo.acthreads
+Name: ACThreads
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: aJBboCydia
+Author: aJBboCydia
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
